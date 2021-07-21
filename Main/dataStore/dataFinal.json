@@ -1,0 +1,4502 @@
+{
+    "ORD001041": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Thunder line', 2), ('iStream', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i bought these as a starter online browser. it is a very portable pad . great price."
+        }
+    },
+    "ORD004361": {
+        "Cart": [
+            "[('Thunder line', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "used it for watching television shows. the picture was clear and the audio was decent for the location of the speakers."
+        }
+    },
+    "ORD004602": {
+        "Cart": [
+            "[('Thunder line', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "phone perfect for needs! i normally only use my cell phone for emergencies, but this phone is very easy to use so i have found myself using it more often. switching between text modes is not as smooth as i would like, but for the price & its general use it's fine."
+        }
+    },
+    "ORD004848": {
+        "Cart": [
+            "[('Universe Note', 1), ('Alcon 10', 2), ('Olivia x460', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great for the price i paid! i use this phone for a dummy line on my account and for 9.99 you cant beat it. awesome for what i needed."
+        }
+    },
+    "ORD005232": {
+        "Cart": [
+            "[('Universe Note', 1), ('Olivia x460', 1), ('iStream', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love it very nice and good product would recomend to others"
+        }
+    },
+    "ORD005286": {
+        "Cart": [
+            "[('Thunder line', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "had to buy it myself and i got know money back never buy anothet phone the phone came without a sims card or charger"
+        }
+    },
+    "ORD007249": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Alcon 10', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "olivia universe s4 (white) the best phone i have ever had. way better than the alcon. easy to understand and has everything i need and more!"
+        }
+    },
+    "ORD007904": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "fastest phone ive ever had never going back to android...only con is battery life other this is a great phone needs more aps but has almost everything i need"
+        }
+    },
+    "ORD008127": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Thunder line', 1), ('Candle Inferno', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star this is not unlocked for the browser"
+        }
+    },
+    "ORD010057": {
+        "Cart": [
+            "[('Universe Note', 1), ('Lucent 330S', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "love it. big hd screen (5.7\"), great cameras (front and back), fast cpu, pen thing (i use it quiet often)... a very solid device indeed. recommend!"
+        }
+    },
+    "ORD010677": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 2), ('iStream', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great product and fast shipping!"
+        }
+    },
+    "ORD010913": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "just what i needed. i bought this phone for work, just use it on wi-fi. it is so fast, easy to use and it makes me happy!"
+        }
+    },
+    "ORD014742": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Universe Note', 1), ('pearTV', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love it but my only issue is every time i ... i love it but my only issue is every time i go to make a phone call \"visual voicemail\" box pops up and i have to hit cancel"
+        }
+    },
+    "ORD015029": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Alcon 10', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "fantastic phone!!!! great phone!! easy to use if you've previously owned a smartphone. processor is extremely fast and the color is fantastic. i really like the size of the phone which is larger than my previous phone."
+        }
+    },
+    "ORD015196": {
+        "Cart": [
+            "[('pearTV', 2), ('iStream', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars nice phone!! thanks!!"
+        }
+    },
+    "ORD016018": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Alcon 10', 1), ('Thunder line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars i love the olivia ,my old one im using is at least 5 years old"
+        }
+    },
+    "ORD016275": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Olivia x460', 2), ('Lucent 330S', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star the gingger prins not work"
+        }
+    },
+    "ORD016609": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i'm in love... i love this phone!"
+        }
+    },
+    "ORD016841": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Candle Inferno', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars great performance"
+        }
+    },
+    "ORD017212": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars good product and excellent customer service. would buy again. thank you!"
+        }
+    },
+    "ORD019224": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 2), ('Thunder line', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "we are not satisfied. it did not meet my expectation. it warms up quickly. it's warming up even when you have video call. i got it for my wife. we are not satisfied."
+        }
+    },
+    "ORD020395": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice cell phone... great value! so far so good... just activated on boost and will update review once i've broken it in a little."
+        }
+    },
+    "ORD021461": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Alcon 10', 2), ('iStream', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "saves you money and trustworthy. i love my phone. i've had mine several weeks and it has proven to be in excellent condition and working order as descibed."
+        }
+    },
+    "ORD021509": {
+        "Cart": [
+            "[('Olivia x460', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my best snapchat phone my snapchats are crystal clear with nice zoom focus. has wide vertical lens capturing a lot in one frame. phones overall performance is smooth and fast. phone is large but overall is the perfect size for cargo pant pockets."
+        }
+    },
+    "ORD021786": {
+        "Cart": [
+            "[('Universe Note', 2), ('Toshika 750', 1), ('pearTV', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars great phone all around. however, it is worth mentioning that not all headphones will work with this phone."
+        }
+    },
+    "ORD022239": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Thunder line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "received messed up phone not happy...phone not even a month old and having issues with screen...i have no other phone to switch to or the money to buy one so cant send this one back."
+        }
+    },
+    "ORD023715": {
+        "Cart": [
+            "[('pearTV', 2), ('Lucent 330S', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "got this for my wife and she loves it the ... got this for my wife and she loves it the only thang it didn come with a usa wall charger so having to use the computer plug to charge it so the cord is really short having to charge it"
+        }
+    },
+    "ORD024391": {
+        "Cart": [
+            "[('Thunder line', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great reseller came with one mark on it that the case covers"
+        }
+    },
+    "ORD024972": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 1), ('Universe Note', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars love it so far!!!!"
+        }
+    },
+    "ORD025094": {
+        "Cart": [
+            "[('Thunder line', 2), ('Toshika 750', 1), ('pearTV', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone with only slightly less battery time phone is sleek and works well. i have a brand new one as well and the only problem with this one is that the battery drains a little more quickly than the brand new one. otherwise,it was in great shape and functionally works well."
+        }
+    },
+    "ORD026546": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "... have this phone for 2 months and im absolutely love it. 6' beautiful large phone i have this phone for 2 months and im absolutely love it. 6' beautiful large phone. i don't play games on my phone, dont watch video. calls, facebook, txt, internet average data use. charging every 3 days...!!!!"
+        }
+    },
+    "ORD026682": {
+        "Cart": [
+            "[('Universe Note', 2), ('iAssist Line', 2), ('Toshika 750', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect starter phone fantastic phone for y 11 yr old. just enough bells and whistles for him to love and nearly indestructible."
+        }
+    },
+    "ORD026756": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 2), ('Candle Inferno', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works great good price work great"
+        }
+    },
+    "ORD027740": {
+        "Cart": [
+            "[('Universe Note', 2), ('iAssist Line', 1), ('Thunder line', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love it! i purchased this after my phone died. i never bought a refurbished phone before and didn't know what to expect. this phone is amazing and i love it! this phone looks and performs like a brand new phone!!"
+        }
+    },
+    "ORD027780": {
+        "Cart": [
+            "[('pearTV', 1), ('iStream', 2), ('Universe Note', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very resilient phone awesome phone. pretty resilient. husband has had one for years now- dropped many times and no crack, break, or issues of any kind. bought this for our oldest son. no problems at all."
+        }
+    },
+    "ORD028403": {
+        "Cart": [
+            "[('Universe Note', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great value at an excellent price the google pixel is a stellar phone. i love how it is stock android, so no unnecessary apps. the size is perfect, making it feel like tablet that fits in my pocket."
+        }
+    },
+    "ORD028604": {
+        "Cart": [
+            "[('pearTV', 1), ('iStream', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "photo quality is amazing. the phone is fast and good looking photo quality is amazing. the phone is fast and good looking. my last phone is alcon 6s, takes me some time to get used to the android system. so far so good, cons. the uber app seems to have compatibility issues."
+        }
+    },
+    "ORD028755": {
+        "Cart": [
+            "[('pearTV', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "olivia a10 cellphone. phone does not work. returned."
+        }
+    },
+    "ORD029585": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iAssist Line', 1), ('iStream', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "looked very new. works fine looked very new"
+        }
+    },
+    "ORD030513": {
+        "Cart": [
+            "[('pearTV', 2), ('iAssist Line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "charger is not compatible in us. charger is not compatible in us. i have to use my old charger for this phone."
+        }
+    },
+    "ORD032042": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it's a good phone it's really a good budget phone and it works with t-mobile"
+        }
+    },
+    "ORD032894": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing! i love it! the camera slider is incredible. the full screen is amazing, nice to play and watch. the battery is very nice too."
+        }
+    },
+    "ORD033121": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 2), ('Toshika 750', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it should have a phisical fingerprint sensor in the back there's a lot of work to do with the fingerprint sensor but everything else is good, the screen is better that i thought i love it, thanks"
+        }
+    },
+    "ORD034351": {
+        "Cart": [
+            "[('Thunder line', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "more bang for the buck love the phone i think it's better than the universe s series"
+        }
+    },
+    "ORD034800": {
+        "Cart": [
+            "[('pearTV', 1), ('Thunder line', 2), ('iAssist Line', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works well excellent"
+        }
+    },
+    "ORD035930": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect, came early too! came with 100% battery health (battery was new), packaged well, and came early. after around 5 hours of use everything seems to be working well. also came with a 90 day warranty."
+        }
+    },
+    "ORD036056": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iStream', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "mostly as advertized great phone for the price. not used for streaming or games just internet, messaging and phone. only issue was had to enter apn data for mobile data and phone categories didn't exactly match those of our provider. took a bit of digging but now all is well. not lte just hspa+"
+        }
+    },
+    "ORD036597": {
+        "Cart": [
+            "[('pearTV', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this was an add on for my thunder system, the refurbished product works like new!"
+        }
+    },
+    "ORD037011": {
+        "Cart": [
+            "[('Thunder line', 1), ('Toshika 750', 2), ('Alcon 10', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing"
+        }
+    },
+    "ORD039111": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "not satisfied at all the phone did not hold charge and they were only going to give a refund $30 in the cost of the battery. i had to personally buy the battery out of pocket at$110.00. not satisfied at all."
+        }
+    },
+    "ORD039664": {
+        "Cart": [
+            "[('Universe Note', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works great to watch youtube and amazin video"
+        }
+    },
+    "ORD042766": {
+        "Cart": [
+            "[('iStream', 2), ('iAssist Line', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "we are still in the discovery phase, but so far we are enjoying the smart home features we have installed."
+        }
+    },
+    "ORD043067": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Candle Inferno', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good"
+        }
+    },
+    "ORD043450": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Lucent 330S', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this is my second inferno, i'm upgrading from the 2nd generation 7\" model. love the screen resolution. movies and videos are sharp and no pixelating. the camera is a bonus my first version did not have. all together this was a great buy for under $100 on sale. thank you best buy."
+        }
+    },
+    "ORD044505": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great for use without data plan used it on at&t without data plan. good for someone looking for voice only. it has wifi and can connect to internet. guess it should work on any network in us."
+        }
+    },
+    "ORD047163": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Toshika 750', 2), ('pearTV', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "ideal for landscapers this is perfect for anyone who is hard on phones. my husband has now owned two of these; it holds up very well to being dropped on a variety of surfaces, exposed to extreme heat and cold, and offers everything he needs without the unnecessary frills of a smart phone."
+        }
+    },
+    "ORD048045": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "accessories not working properly. i have used this phone just for 15 days and adaper burned completely."
+        }
+    },
+    "ORD049313": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('pearTV', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars excellent product with amazing quality. worked right out of the package."
+        }
+    },
+    "ORD049427": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "this phone is not verizon compatible! the side of ... this phone is not verizon compatible! the side of the package says unlk/t-mobile. tried to activate it anyways and it couldn't be."
+        }
+    },
+    "ORD050839": {
+        "Cart": [
+            "[('iassist line', 2), ('toshika 750', 2), ('olivia x460', 1), ('universe note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i am pleased with the purchase i am pleased with the purchase. good job."
+        }
+    },
+    "ORD051005": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "why charging too much for colors ? very fast deliver , stylish , good price , awesome screen , fast charging"
+        }
+    },
+    "ORD051670": {
+        "Cart": [
+            "[('iAssist Line', 2), ('pearTV', 2), ('Thunder line', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome deal great deal for a really decent phone. bought this for my kids and it is easy for them to use and has the features you would expect from a smartphone at a fraction of the cost. highly recommend!"
+        }
+    },
+    "ORD051673": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Alcon 10', 2), ('Toshika 750', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "first smart phone my brother enjoys it has raved about it says it's his first smart phone and he's looking forward to using it."
+        }
+    },
+    "ORD052585": {
+        "Cart": [
+            "[('Alcon 10', 1), ('pearTV', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "waste of time and money. don't buy at all\ud83d\ude45\ud83c\udffd\u200d\u2640\ufe0f i never did anything to it, i just opened it and tried to charge it, didn't work flickering on and off. called customer service and they weren't much help. asked for a replacement. they sent the broken phone back to me instead of a replacement phone."
+        }
+    },
+    "ORD053558": {
+        "Cart": [
+            "[('iStream', 2), ('Thunder line', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "looks good so far im going to use this week with my over see trip .looks good so far."
+        }
+    },
+    "ORD053567": {
+        "Cart": [
+            "[('pearTV', 1), ('iAssist Line', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this is not the droid turbo 2 i like lucentrola and have had several. beware, this phone has the standard, easily breakable screen. either get a protective case or buy the droid turbo 2 with the virtually unbreakable screen."
+        }
+    },
+    "ORD056609": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Olivia x460', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great shipping speed. good deal"
+        }
+    },
+    "ORD057375": {
+        "Cart": [
+            "[('iStream', 1), ('Olivia x460', 1), ('Alcon 10', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great item! this is a great phone easy to use and works well."
+        }
+    },
+    "ORD057456": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Lucent 330S', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect item.. perfect i have it for almost 1year and never a si for issue.. perfect condition like new.. thank you"
+        }
+    },
+    "ORD057521": {
+        "Cart": [
+            "[('IASSIST LINE', 1), ('ALCON 10', 2), ('OLIVIA X460', 1), ('ISTREAM', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "larger screen user friendly"
+        }
+    },
+    "ORD058244": {
+        "Cart": [
+            "[('Universe Note', 2), ('Thunder line', 1), ('Candle Inferno', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great phone even after being released a year ago."
+        }
+    },
+    "ORD058255": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "inquiries i love the galaxies, now i want to buy both 8+ and 8 but i don't want the dual sim cos that's what we have in nigeria. though i want to use them in nigeria."
+        }
+    },
+    "ORD058920": {
+        "Cart": [
+            "[('Universe Note', 1), ('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "no difference between this and a brand-new version totally love it. in fact, it's hard to disagree that it ain't brand new. it was indeed a good bargain."
+        }
+    },
+    "ORD059126": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "then this phone is great for drawing on the go or in your bed it's the only phone with a pressure-sensitive stylus so really your only cheaper options are older notes, which don't have security updates. if you're an artist, then this phone is great for drawing on the go or in your bed."
+        }
+    },
+    "ORD059963": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great form factor does work as advertised"
+        }
+    },
+    "ORD060602": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Candle Inferno', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome phone love this phone! have had 0 problems with it and absolutely love it. the finger print, iris scanner and facial recognition is better than i'd ever had."
+        }
+    },
+    "ORD061084": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Lucent 330S', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "verizon? i just purchased this phone and i'm hoping i love it as much as others do. i just have one worry. i can't tell by the reviews so im just asking to clarify. i have verizon, is this phone gonna work?"
+        }
+    },
+    "ORD063307": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Universe Note', 1), ('pearTV', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excelente el producto llego en perfectas condiciones. solo con una pequena raya en la pantalla, excelente"
+        }
+    },
+    "ORD063814": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('pearTV', 2), ('iAssist Line', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "definitively would buy again. has been great to me for the past months. highly suggest for people who want to buy an up to date phone but do not want to pay for the newest universe out."
+        }
+    },
+    "ORD064801": {
+        "Cart": [
+            "[('Universe Note', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star never ordered never got iy"
+        }
+    },
+    "ORD065457": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "this is the worst phone i've ever had it constantly freezes this is the worst phone i've ever had it constantly freezes, the battery is always dead, and it doesn't like to turn on when it's turned off"
+        }
+    },
+    "ORD065661": {
+        "Cart": [
+            "[('pearTV', 2), ('Toshika 750', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "killing phone!!! incredible!! super phone for less than 200usd?? yes!!!"
+        }
+    },
+    "ORD066333": {
+        "Cart": [
+            "[('pearTV', 2), ('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i like very good, i like phone."
+        }
+    },
+    "ORD067226": {
+        "Cart": [
+            "[('Universe Note', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great purchase!everything perfect!!!! excellent phone!excellent purchase experience!"
+        }
+    },
+    "ORD068250": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Lucent 330S', 2), ('iStream', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "reliable. fast. best phone ever excellent. love it"
+        }
+    },
+    "ORD068296": {
+        "Cart": [
+            "[('iStream', 2), ('pearTV', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excelent product excellent relationship quality price, stable, fast, good camera. recommendable"
+        }
+    },
+    "ORD069995": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 1), ('Universe Note', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "na it was late , but works just fine"
+        }
+    },
+    "ORD070810": {
+        "Cart": [
+            "[('pearTV', 2), ('iAssist Line', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "love it best all around cheap but good all the way, best value"
+        }
+    },
+    "ORD071953": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "lucent again! for the few days of use this phone has done nothing but delivered. fingerprint reader is responsive and easy to access, i'm getting almost 2 days of battery life with moderate use (results will vary when gaming). no lag so far. this was a good purchase."
+        }
+    },
+    "ORD072308": {
+        "Cart": [
+            "[('Thunder line', 2), ('iAssist Line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good value. be wary of seller. best value for the money out there but mine came with a chipped/cracked screen and covered in fingerprints. the phone also comes with some bloatware."
+        }
+    },
+    "ORD072312": {
+        "Cart": [
+            "[('iStream', 1), ('Alcon 10', 1), ('Olivia x460', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good a bit heavy than other phones. indigo color looks awesome"
+        }
+    },
+    "ORD073993": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "of all the cellphones i've had, this is the best. i use this as a phone mostly and not much else."
+        }
+    },
+    "ORD074888": {
+        "Cart": [
+            "[('Toshika 750', 2), ('pearTV', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "convenient and fun."
+        }
+    },
+    "ORD074913": {
+        "Cart": [
+            "[('Thunder line', 2), ('pearTV', 2), ('Olivia x460', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "do not buy. do not buy this phone! i purchased this phone 90 days ago and suddenly stopped working. third party vendor now saying i must seek repair with manufacturer. total deception, consumer fraud."
+        }
+    },
+    "ORD075922": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Alcon 10', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very user friendly. for the price best deal out there."
+        }
+    },
+    "ORD075963": {
+        "Cart": [
+            "[('Universe Note', 2), ('Thunder line', 2), ('iStream', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "candle was great purchase for both of my teenage sons.great for use of apps and music. good for everyday use. would recommend to anybody."
+        }
+    },
+    "ORD076632": {
+        "Cart": [
+            "[('iStream', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "nunca lleg\u00f3 el tel\u00e9fono lo compr\u00e9 para una amiga y nunca lleg\u00f3"
+        }
+    },
+    "ORD077215": {
+        "Cart": [
+            "[('pearTV', 2), ('Thunder line', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "satisfied customer olivia is the best!!!!!!"
+        }
+    },
+    "ORD077302": {
+        "Cart": [
+            "[('iStream', 1), ('Candle Inferno', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome phone! glad i switched from android! it is so refreshing when using this phone.. interface is awesome. it is slick and very responsive!! trust me and make a switch if you are a android user!"
+        }
+    },
+    "ORD077818": {
+        "Cart": [
+            "[('pearTV', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "bluetooth connection with auto is defective i like the usb-3 connection; it is easy to insert and charges quickly. the blue-tooth , however, is defective. connection to my jaguar f-pace is very unstable ever since android update 8-1-0. digico customer service has been very unhelpful and unable to resolve the problem."
+        }
+    },
+    "ORD078283": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('pearTV', 2), ('iAssist Line', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice nice refurbished product. virtually flawless. detracting 1 star because the charger is a cheaply made in china."
+        }
+    },
+    "ORD079320": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Lucent 330S', 1), ('iAssist Line', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "terrible i received my phone in decent condition but notice after 10 mins using it would over heat then the screen all sudden there be like a glitch just terrible so i returned it"
+        }
+    },
+    "ORD080001": {
+        "Cart": [
+            "[('iAssist Line', 2), ('pearTV', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good product. happy with my new phone good product. happy with my new phone. supreme deals 18 has awesome customer service too. the phone i ordered got lost in transit over the holodays and they overnighted me a replacement asap!"
+        }
+    },
+    "ORD080574": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Lucent 330S', 2), ('Alcon 10', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "features out weigh the cost this was purchased as a gift for a middle schooler. its a great starter phone with the added bonus of windows os it allows for school work to be accessed on the go. no complaints from the receiver."
+        }
+    },
+    "ORD082002": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars works great - saved hundreds!"
+        }
+    },
+    "ORD083728": {
+        "Cart": [
+            "[('Thunder line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "been using since june of 2015 and its absolutely fantastic. for the money you spend its worth its ... been using since june of 2015 and its absolutely fantastic. for the money you spend its worth its value."
+        }
+    },
+    "ORD085447": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Lucent 330S', 1), ('Alcon 10', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great phone for a replacement and is in great shape."
+        }
+    },
+    "ORD086060": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 1), ('pearTV', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent amazing cell phone"
+        }
+    },
+    "ORD086444": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('iStream', 1), ('Olivia x460', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent product excellent product, was received as described, was delivered at the correct time."
+        }
+    },
+    "ORD086903": {
+        "Cart": [
+            "[('IASSIST LINE', 2), ('lucent 330s', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing absolutely love this phone! it sleek, easy to use, and good color. i was originally considering getting a olivia universe of some sort but i would 100% recommend getting this over it. it has great picture quality as well!"
+        }
+    },
+    "ORD088885": {
+        "Cart": [
+            "[('pearTV', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "battery drains fast the battery drains too fast but other wise good phone"
+        }
+    },
+    "ORD089655": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Candle Inferno', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "s7 edge good device, even used!"
+        }
+    },
+    "ORD089966": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iAssist Line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "two stars bad quality screen"
+        }
+    },
+    "ORD092009": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Toshika 750', 2), ('Universe Note', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars like new"
+        }
+    },
+    "ORD094945": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "toshika xperia xa1 ultra like product really nice and body is clean. response is good overall great phone so far."
+        }
+    },
+    "ORD098336": {
+        "Cart": [
+            "[('iAssist Line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star not a good phone the power button quit working!"
+        }
+    },
+    "ORD103075": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "beautiful phones! was pleasantly surprised at how nice of quality these phones were when they got to me. they look brand new!"
+        }
+    },
+    "ORD103199": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome awesome phone"
+        }
+    },
+    "ORD103709": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Candle Inferno', 1), ('Alcon 10', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "this phone would never update fully. constantly in updating ... this phone would never update fully. constantly in updating mode even after it said it was completed, it started again."
+        }
+    },
+    "ORD104003": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Toshika 750', 1), ('Olivia x460', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great purchase"
+        }
+    },
+    "ORD104032": {
+        "Cart": [
+            "[('iStream', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "useless battery the battery life is ridiculous, phone needs to be charged up to 5 times daily. i should be completely refunded for this junk!!!"
+        }
+    },
+    "ORD106414": {
+        "Cart": [
+            "[('pearTV', 2), ('Alcon 10', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great product i love it! it looks just like brand new and everything works great. my international sim card worked perfectly! i'm really happy with it."
+        }
+    },
+    "ORD108392": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Toshika 750', 1), ('Thunder line', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "great deal love the phone. everything i wanted. fast shipping."
+        }
+    },
+    "ORD109308": {
+        "Cart": [
+            "[('pearTV', 1), ('Candle Inferno', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "selling lost/stolen items i received this today, went to have it activated and it is showing as a lost/stolen phone."
+        }
+    },
+    "ORD109384": {
+        "Cart": [
+            "[('Thunder line', 1), ('pearTV', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it functions properly in my country. i activated my phone on april 18, 2019 and has been using it since. i am satisfied with the performance so far."
+        }
+    },
+    "ORD110606": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Toshika 750', 2), ('Thunder line', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great battery life a very beautiful phone. battery life is one of the best i have ever had in a olivia phone"
+        }
+    },
+    "ORD112722": {
+        "Cart": [
+            "[('ALCON 10', 1), ('iassist line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "the phone arrived locked. after all the hassle, ... the phone arrived locked. after all the hassle, i had to buy one from the my carrier. without a phone for days..."
+        }
+    },
+    "ORD113085": {
+        "Cart": [
+            "[('iStream', 2), ('pearTV', 1), ('Universe Note', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "solid phone for the $$$ great phone, can't believe it's considered a mid-range phone. perfect size, screen super, fast, battery life excellent. camera is pretty good too. so far very happy."
+        }
+    },
+    "ORD113670": {
+        "Cart": [
+            "[('iStream', 2), ('Candle Inferno', 2), ('iAssist Line', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone the major issue is fingerprint recognition , even with the software updated . phone is good overall . recommend it as an alternative since other phones are too expensive"
+        }
+    },
+    "ORD113908": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('iAssist Line', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "user friendly it works"
+        }
+    },
+    "ORD115766": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Alcon 10', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "value for the price great quality but lackluster battery even with battery saver on at least for my power user habit's will recommend to have a power bank just in case"
+        }
+    },
+    "ORD116440": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Lucent 330S', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "two stars does not support t-mobile plans"
+        }
+    },
+    "ORD118137": {
+        "Cart": [
+            "[('Alcon 10', 2), ('iAssist Line', 2), ('Toshika 750', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "not good it was a used phone , scratch , apps store doesn\u2019t work and so many."
+        }
+    },
+    "ORD118905": {
+        "Cart": [
+            "[('Olivia x460', 1), ('iAssist Line', 1), ('Toshika 750', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "screen is a little smaller than what was in the description value for my money. camera is great"
+        }
+    },
+    "ORD121712": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Candle Inferno', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone my sister love't"
+        }
+    },
+    "ORD122150": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star they say it was new but it wasn't it was used \ud83d\ude44"
+        }
+    },
+    "ORD122655": {
+        "Cart": [
+            "[('Thunder line', 2), ('Alcon 10', 1), ('Lucent 330S', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "best phone for it's value amazing phone works great"
+        }
+    },
+    "ORD124286": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Universe Note', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone i am upgrading from a google pixel 2 xl and like the 4 xl a lot more. the battery life is significantly better. face unlock works even in the dark, and works better than the fingerprint, although not all apps support it yet. the camera and screen are better as well."
+        }
+    },
+    "ORD124395": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Olivia x460', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good quality as i expected this version (pro) isn't compatible with gcam but if u don't mind that is the best option quality/price in the market rn"
+        }
+    },
+    "ORD124413": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Toshika 750', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "screen issues screen didnt work properly"
+        }
+    },
+    "ORD127141": {
+        "Cart": [
+            "[('Universe Note', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "so far it has worked well. not always intuitive as to how to link different devices, or \"skills\", but getting the hang of it."
+        }
+    },
+    "ORD127153": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Candle Inferno', 1), ('Toshika 750', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "el producto nunca llego el producto nunca llego"
+        }
+    },
+    "ORD127881": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i have two other versions of candle tablets and each one gets better. great screen display allowing for clear and enjoyable viewing. easy to use. quick downloading and updating."
+        }
+    },
+    "ORD128538": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "not as expected doesn't catch network well, call quality is very low, touch screen is not sensitive."
+        }
+    },
+    "ORD129378": {
+        "Cart": [
+            "[('iStream', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this is a great tablet for the price i paid. my husband loves it!"
+        }
+    },
+    "ORD129529": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Universe Note', 2), ('pearTV', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars like"
+        }
+    },
+    "ORD130025": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Candle Inferno', 1), ('pearTV', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my favorite smart phone my favorite smart phone. a little slow, and the microphones are crap, but works great for use in austere and rough environments. never came cles to cracking the screen, and i have dropped it in water several times without any real issues."
+        }
+    },
+    "ORD130410": {
+        "Cart": [
+            "[('ALCON 10', 1), ('thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars phones very slow but its good."
+        }
+    },
+    "ORD131352": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Lucent 330S', 1), ('iAssist Line', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone. had it for a year and still ... great phone. had it for a year and still is not suffering from lag like other phones i have had. works amazingly! camera is the bomb!"
+        }
+    },
+    "ORD131664": {
+        "Cart": [
+            "[('PEARTV', 2), ('LUCENT 330S', 1), ('OLIVIA X460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars works great! easy to use, perfect for personal or business related things. this is the second one i've bought."
+        }
+    },
+    "ORD134511": {
+        "Cart": [
+            "[('pearTV', 2), ('Thunder line', 1), ('Lucent 330S', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone great phone still, but i'm a nerd."
+        }
+    },
+    "ORD136412": {
+        "Cart": [
+            "[('pearTV', 1), ('iStream', 1), ('Thunder line', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "quality love it"
+        }
+    },
+    "ORD137495": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "hot trash! this phone is horrible do not buy! save your money!!! i so wish i could get my money back, even my 8 year old doesn't want this hunk of crap."
+        }
+    },
+    "ORD138302": {
+        "Cart": [
+            "[('iStream', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i am available to stay in contact with my child. thanks replace and upgrade a cellphone. the price was a tremendous savings compared to oem vendors."
+        }
+    },
+    "ORD139508": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Universe Note', 1), ('iStream', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great for the money work fantastic. i haven't had any issues with it since i received it. yes it's refurbished but. i've had a few little scratches on the back but besides that the phone works fantastic and one little scratch on the screen but haven't had any issues."
+        }
+    },
+    "ORD139543": {
+        "Cart": [
+            "[('pearTV', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good so far so good"
+        }
+    },
+    "ORD139834": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('pearTV', 1), ('iAssist Line', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "scam terrible"
+        }
+    },
+    "ORD141734": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Lucent 330S', 2), ('Thunder line', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "quick service thank you"
+        }
+    },
+    "ORD144770": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "don\u2019t forget to buy the additional warranty. you\u2019ll need it. do not buy this phone without the additional warranty. you will need it."
+        }
+    },
+    "ORD144784": {
+        "Cart": [
+            "[('iStream', 1), ('iAssist Line', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good condition it looked good, is working good it\u2019s worth what i paid, haven\u2019t had no problems my daughter is happy."
+        }
+    },
+    "ORD146760": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Toshika 750', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great! got mine from chubbie seller, can't believe how great the phone looks and works! i was a bit nervous getting refurb but such a good option!"
+        }
+    },
+    "ORD150293": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Alcon 10', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "came in mint condition maybe one scratch on it, but it\u2019s refurbished so what do you expect, 110% worth the money. would highly recommend you buy i only wish it came in original packaging. came at 95% battery health."
+        }
+    },
+    "ORD151330": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i absolutely hate this phone it's so slow going from screen to screen ...as well as gets locked up constantly...its just aggravating to use anytime."
+        }
+    },
+    "ORD151721": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "sucks! i have had so many problems and issues with this phone. i don't receive phone calls, texts come 20 minutes late and i've had problems accessing the internet. worst phone i've ever had."
+        }
+    },
+    "ORD152093": {
+        "Cart": [
+            "[('Universe Note', 2), ('pearTV', 1), ('Olivia x460', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "defective motherboard and camera hardware the quality of phones are very poor. the camera and the motherboard malfunctioned 9 months after purchase with expensive repairs and replacements. did not expect this from a company like olivia. will never buy any olivia phone in future and would also recommend everyone to do the same."
+        }
+    },
+    "ORD153030": {
+        "Cart": [
+            "[('Olivia x460', 2), ('pearTV', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "don't buy this phone after around 6 months of using this phone it got stuck in a reboot loop if you don't know what that is it basically restart over and over again and it won't stop."
+        }
+    },
+    "ORD153759": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "bixby is bloatware! good phone. the only minus is bixby bloatware."
+        }
+    },
+    "ORD154758": {
+        "Cart": [
+            "[('iAssist Line', 2), ('iStream', 2), ('Lucent 330S', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "cannot use playstore download app received my phone last week. everything is good. but the only problem is i cannot use playstore to download any apps. the downloading is pending forever. any solution?"
+        }
+    },
+    "ORD157353": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "xp is the best it's an ok phone"
+        }
+    },
+    "ORD157688": {
+        "Cart": [
+            "[('Universe Note', 2), ('Toshika 750', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "satisfied with purchase. very happy with the service i recieved from the seller. my package arrived even 3 days early. was packed very well. recommend them. have only used the phone a few days, still learning. no issues so far."
+        }
+    },
+    "ORD158007": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 2), ('Lucent 330S', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent phone! had it for about 4 months now. great camera and battery life~"
+        }
+    },
+    "ORD158346": {
+        "Cart": [
+            "[('iStream', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "gud it's a great phone for the price and the camera is pretty decent. def worth getting if you want a pretty good phone for cheap"
+        }
+    },
+    "ORD161245": {
+        "Cart": [
+            "[('Universe Note', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone easy activation just got my us version unlocked phone .was so easy to activate ( i have cricket as my provider) and transfering all my data and contacts was a breeze. highly recommend this version. love the phone!"
+        }
+    },
+    "ORD161955": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great product. sometimes iassist does not understand some commands for my inferno tv. all in all, this is a fabulous speaker."
+        }
+    },
+    "ORD163916": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "no good!!!!"
+        }
+    },
+    "ORD164452": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "improved over the hd 7. things set up differently but not hard to learn. also a bit heavier than the 7 so reading in bed a little harder"
+        }
+    },
+    "ORD165627": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it is easily set to on bought it for my daughter. she loves it. only set back is it will turn on in her backpack and go off. it is easily set to on. she can't have that happening in school. keeps a charge for 2-3 days. very reliable."
+        }
+    },
+    "ORD165713": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 2), ('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star it wasn't what i bought , it ended up being swifters."
+        }
+    },
+    "ORD166670": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars i would like to have a nother one i love it but cant find it onyour phone page"
+        }
+    },
+    "ORD167693": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Lucent 330S', 2), ('iStream', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "thank you for fast shipping and great item. when i dropped my maxx last week thank you for fast shipping and great item. when i dropped my maxx last week, the screen shattered! even w/ insurance, phone price through the carrier was not affordable. thank you"
+        }
+    },
+    "ORD168543": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Lucent 330S', 2), ('Candle Inferno', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "two stars this phone already broke ."
+        }
+    },
+    "ORD170004": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars awesome"
+        }
+    },
+    "ORD170576": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works well. real note."
+        }
+    },
+    "ORD173202": {
+        "Cart": [
+            "[('iAssist Line', 1), ('iStream', 2), ('Alcon 10', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "its ok the phone is ok my husband likes it"
+        }
+    },
+    "ORD175025": {
+        "Cart": [
+            "[('iStream', 2), ('Lucent 330S', 1), ('Universe Note', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "yes its the truth yes its the truth bro"
+        }
+    },
+    "ORD175085": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my mom loves it! mom needed a new phone so got her this and she loves it"
+        }
+    },
+    "ORD176554": {
+        "Cart": [
+            "[('pearTV', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent for the price looked brand new! somewhat user friendly! excellent for the price!"
+        }
+    },
+    "ORD176936": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 1), ('Universe Note', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "now i got the phone and it does not work!! the wifi works, but i can not get a call, there's a low signal. second consecutive time i buy a phone from digico and it is not working."
+        }
+    },
+    "ORD177002": {
+        "Cart": [
+            "[('Universe Note', 1), ('Lucent 330S', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars it was a gift but i get good reports!"
+        }
+    },
+    "ORD177106": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "other than that it is really good. it is what it is. other than that it is really good."
+        }
+    },
+    "ORD177535": {
+        "Cart": [
+            "[('toshika 750', 2), ('istream', 1), ('peartv', 2), ('universe note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great purchase!!! my twins love them!!"
+        }
+    },
+    "ORD178590": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Thunder line', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "battery sucks the battery on this phone is a joke, i even paid for a replacement battery and the phone still drained it without remorse. i don't recommend this phone to anyone who needs their battery."
+        }
+    },
+    "ORD178601": {
+        "Cart": [
+            "[('iStream', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i didn\u2019t get my phone i didn\u2019t get my phone"
+        }
+    },
+    "ORD179719": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars works great"
+        }
+    },
+    "ORD182183": {
+        "Cart": [
+            "[('Thunder line', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i liked thank you but don't have headphones \ud83e\udd14 hi i bought universe note 8 but in box don't have headphones! i liked thank you but don't have headphones \ud83e\udd14"
+        }
+    },
+    "ORD182494": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Toshika 750', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "just poor not really compatible with any carrier , att some bands, t-mobil some , verizon none, no firmware support here in the us and security updates are really old. stay away!!"
+        }
+    },
+    "ORD182549": {
+        "Cart": [
+            "[('pearTV', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "refurbished or used?? a good phone for the price! listed as factory refurbished when clearly it was a used phone with cosmetic damages. refund process was easy!!!"
+        }
+    },
+    "ORD184184": {
+        "Cart": [
+            "[('pearTV', 2), ('Alcon 10', 1), ('Candle Inferno', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "deceptive ad wrong items"
+        }
+    },
+    "ORD184511": {
+        "Cart": [
+            "[('iStream', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "best buy! kickass phone!! works as well as the new alconx my company provides for work. i actually like this one better..android!"
+        }
+    },
+    "ORD184906": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('iStream', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "universe note 9 the best in cell phones i think.. great shipping."
+        }
+    },
+    "ORD188735": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Toshika 750', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "get this now! love love love this phone! it's all you could want and more!"
+        }
+    },
+    "ORD189717": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great product. great product came as described. phone works great. looks brand new. came on time as promised."
+        }
+    },
+    "ORD190038": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 1), ('Thunder line', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works on gsm usa i have this phone it works on metropcs, tmobile att and works just fine, it's a really good phone for the price."
+        }
+    },
+    "ORD190200": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it's amazing my sister loves it"
+        }
+    },
+    "ORD190264": {
+        "Cart": [
+            "[('iStream', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "thought it would be more powerful and have a lot more functionality. not much better than the thunder line. not worth the money."
+        }
+    },
+    "ORD191503": {
+        "Cart": [
+            "[('Thunder line', 2), ('Universe Note', 1), ('Candle Inferno', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "best finger print reader ever, olivia pay +!! the fingerprint reader is the best, other universe 10's have ultrasonic readers that are finicky at best and slow and unresponsive at times. the main purpose of buying this was for the finger print reader and olivia pay that i love."
+        }
+    },
+    "ORD191543": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone for the price \ud83d\udc4d don't know why some people are talking about. my runs lte with tmobile."
+        }
+    },
+    "ORD192391": {
+        "Cart": [
+            "[('Alcon 10', 1), ('pearTV', 1), ('Thunder line', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works like a new one.  can tell the difference from the new one i bough and the refurbished one."
+        }
+    },
+    "ORD193150": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "love it"
+        }
+    },
+    "ORD193841": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 1), ('pearTV', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this thing is awesome. we watch it more then the regular cable. going to by more on black friday as christmas gifts."
+        }
+    },
+    "ORD194707": {
+        "Cart": [
+            "[('Alcon 10', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "light weight and easy to use. very user-friendly. durable."
+        }
+    },
+    "ORD197091": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great little tablet to take with you, great for kids"
+        }
+    },
+    "ORD197167": {
+        "Cart": [
+            "[('Thunder line', 2), ('Lucent 330S', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "gave to my grandchildren for christmas, would like to get another for the same price for another grandchild."
+        }
+    },
+    "ORD197918": {
+        "Cart": [
+            "[('Thunder line', 2), ('pearTV', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star couldnt activate the phone beacause it was reported stolen -10\u2606"
+        }
+    },
+    "ORD198111": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good i just bought this phone a few weeks ago and it is gorgeous. the screen just blew me away and the os is very fast and user friendly. this is the first time i try a windows phone and i have to say that it's been a wonderful experience."
+        }
+    },
+    "ORD199125": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone great phone i love my droid razr it fits me perfect"
+        }
+    },
+    "ORD200084": {
+        "Cart": [
+            "[('iStream', 2), ('Universe Note', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "telephone definitely was worth the money.i qould have given it 5stars, but i couldnt evet get connected to the internet.othetwise it worked very well."
+        }
+    },
+    "ORD202010": {
+        "Cart": [
+            "[('pearTV', 2), ('Universe Note', 1), ('iAssist Line', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "phone stopped working within 6 months and i've had a ... phone stopped working within 6 months and i've had a very hard time trying to activate my warranty or reach someone to discuss how to get my phone fixed. don't buy this phone if manufactured in vietnam!!"
+        }
+    },
+    "ORD202296": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 1), ('Toshika 750', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star this product is not compatible with verizon."
+        }
+    },
+    "ORD202308": {
+        "Cart": [
+            "[('Thunder line', 2), ('Olivia x460', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "you get hack really easily! i've been using this phone for around a month now and i got hacked 3 times! 3 times!"
+        }
+    },
+    "ORD204657": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Universe Note', 1), ('Toshika 750', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "wtc as of right now it's more of a paper weight. not able to use at all with out sim card... bought for prepaid phone.... looked at online was under the impression could switch it over from my universe 3 best value for price has under skirt to hide the goodshitch has no sim card..."
+        }
+    },
+    "ORD205507": {
+        "Cart": [
+            "[('Thunder line', 1), ('Olivia x460', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone for good price its a good phone definitely for the price. i would recommend it anyone who is looking for a really good phone for a reasonable price."
+        }
+    },
+    "ORD206559": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Universe Note', 2), ('Thunder line', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "doesn't work anymore phone is practically useless after 4 months. a recent update has made it so it will not connect to the network."
+        }
+    },
+    "ORD208080": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars very good olivia universe s5 , i would rate 4 stars"
+        }
+    },
+    "ORD208711": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Thunder line', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "boy satisfied i dislike that on the phone info said was unlock and i can use this phone with any phone carrier but when i trided to conected with verizon they tell me this phone is not suported. wasent unlock \ud83d\udc4e"
+        }
+    },
+    "ORD209997": {
+        "Cart": [
+            "[('pearTV', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nearly perfect just the phone i was looking for to upgrade. nearly perfect condition, i had to do a factory reset to receive mms texts, but absolutely no complaints about the phone. seems even easier to use than my previous lumia 900. love it."
+        }
+    },
+    "ORD210087": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Candle Inferno', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars good replacement phone. much less expensive than going for the latest model."
+        }
+    },
+    "ORD212584": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "its an amazing experience im so excited its an amazing experience im so excited..beyond my expectation....positive ! thanks guys. im just happy qith my new universe note 5\ud83d\ude00"
+        }
+    },
+    "ORD212818": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 1), ('Lucent 330S', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love this phone i love this phone. very fast and great screen size. super responsive. makes my old s4 seem like a model a"
+        }
+    },
+    "ORD213192": {
+        "Cart": [
+            "[('Thunder line', 1), ('Alcon 10', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars came on time and clean and works well!"
+        }
+    },
+    "ORD214700": {
+        "Cart": [
+            "[('pearTV', 2), ('Olivia x460', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars very good"
+        }
+    },
+    "ORD215329": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Universe Note', 2), ('Alcon 10', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars works great no problems"
+        }
+    },
+    "ORD215616": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "the phone is not working i'm so disappointed...i bought it to send abroad but it works for 3days. so what should i do now?"
+        }
+    },
+    "ORD215775": {
+        "Cart": [
+            "[('pearTV', 2), ('Alcon 10', 1), ('Thunder line', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect so far best phone i've owned"
+        }
+    },
+    "ORD216875": {
+        "Cart": [
+            "[('pearTV', 2), ('Thunder line', 1), ('Olivia x460', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good quality everything was ok"
+        }
+    },
+    "ORD222362": {
+        "Cart": [
+            "[('iStream', 1), ('Alcon 10', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars best price for the phone"
+        }
+    },
+    "ORD225422": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "damaged comes damaged with a broken charger with no headphones and the charger"
+        }
+    },
+    "ORD226150": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Olivia x460', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "phone was in perfect condition. came sealed and packed with charger. also included instructions for setting up phone for different cell phone carriers. phone was in perfect condition."
+        }
+    },
+    "ORD226452": {
+        "Cart": [
+            "[('Olivia x460', 2), ('pearTV', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "working well so far. have had just over a month. so far i do like everything about the phone."
+        }
+    },
+    "ORD226730": {
+        "Cart": [
+            "[('ALCON 10', 2), ('istream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "everything i expected overall i love the phone everything i expected from the universe s7 edge."
+        }
+    },
+    "ORD226807": {
+        "Cart": [
+            "[('Thunder line', 1), ('Candle Inferno', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "olivia universe s8 - awesome the phone was new. great value for money"
+        }
+    },
+    "ORD228044": {
+        "Cart": [
+            "[('PEARTV', 2), ('CANDLE INFERNO', 1), ('THUNDER LINE', 2), ('ALCON 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great value great used phone"
+        }
+    },
+    "ORD228614": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('pearTV', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love it i love it"
+        }
+    },
+    "ORD229308": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing value! excellent phone! amazing value."
+        }
+    },
+    "ORD230243": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Olivia x460', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "used not new as described this phone was described as \"new\". was not sealed and when opened the box was some dust all around. battery was drained and after powering on the phone was ready to use instead of factory reset... (welcome stage, language etc.) returning this... wasted time!!!"
+        }
+    },
+    "ORD230298": {
+        "Cart": [
+            "[('Universe Note', 2), ('Lucent 330S', 2), ('iAssist Line', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "gran compra funciona perfecto"
+        }
+    },
+    "ORD232026": {
+        "Cart": [
+            "[('IASSIST LINE', 2), ('lucent 330s', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "like it very nice,works great!!"
+        }
+    },
+    "ORD232940": {
+        "Cart": [
+            "[('Universe Note', 1), ('Toshika 750', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "must buy five star awesome new everything works perfectly"
+        }
+    },
+    "ORD233901": {
+        "Cart": [
+            "[('Universe Note', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome renewed this phone is great"
+        }
+    },
+    "ORD234302": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "concern about cosmetic condition of phone was quickly put to rest i received the phone before the delivery date and it performs and appears like a new phone."
+        }
+    },
+    "ORD234473": {
+        "Cart": [
+            "[('iAssist Line', 1), ('pearTV', 2), ('Universe Note', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "worst flip phone worst flip phone i ever had. it is difficult to open and the sound is terrible. my old lg vx8300 is far better than this phone."
+        }
+    },
+    "ORD234525": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "received without battery i got this last month and got the package without the battery. digico refunded 40% of the amount i paid, but it is still a bother to find a genuine olivia battery for this phone. also want to mention that this was delivered in a plastic packet and not a retail box. not sure if this is how they package it nowadays..."
+        }
+    },
+    "ORD234851": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "beautiful just like it"
+        }
+    },
+    "ORD235371": {
+        "Cart": [
+            "[('Thunder line', 1), ('Olivia x460', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "boost mobile does this phone work for boost mobile"
+        }
+    },
+    "ORD235383": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iStream', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works well love this phone."
+        }
+    },
+    "ORD235478": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good it was a gift for my niece. it to her in jamaica."
+        }
+    },
+    "ORD236167": {
+        "Cart": [
+            "[('Olivia x460', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone no problems. phone came on time. functions great."
+        }
+    },
+    "ORD236948": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Universe Note', 1), ('Thunder line', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "one star i never used this phone since i bought, was not charging"
+        }
+    },
+    "ORD239025": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "absolutely amazing deal awesome, similar specs to a high end phone, i paid $200 instead of $900"
+        }
+    },
+    "ORD239056": {
+        "Cart": [
+            "[('Universe Note', 1), ('iStream', 1), ('pearTV', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "too high a price... the phone was grossly over priced. i found the same phone for $39.95. the phone itself was okay but not for$69.00."
+        }
+    },
+    "ORD239747": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Toshika 750', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "best bang for your buck! great overall android phone, no damages during shipping and after a month phone performance hasn't declined, would recommend to anyone who wants to get a upgrade."
+        }
+    },
+    "ORD239838": {
+        "Cart": [
+            "[('pearTV', 2), ('Universe Note', 2), ('Thunder line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "it looks like i got a refurbished one i ordered a new phone, it looks like i got a refurbished one, the charge stays only for one hour (battery is drying soon) , and it will take 6 hours to battery full, i am not happy with this product, it stuck frequently. not so happy with this phone."
+        }
+    },
+    "ORD241112": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Toshika 750', 1), ('Lucent 330S', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this phone will last 2 days with battery saver on what a great battery this product is great value for the money compared to an alcon by far"
+        }
+    },
+    "ORD241414": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Universe Note', 1), ('pearTV', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "fast budget phone for people who dont game great camera and screen. very competitive value i purchased this over the lucent g7 as it is more sleek and has a better camera for less!!"
+        }
+    },
+    "ORD242226": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iAssist Line', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great! best purchase i have made so far on a phone, definitely worth it."
+        }
+    },
+    "ORD242864": {
+        "Cart": [
+            "[('Thunder line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "easy to use, work's perfect with the usa network carrier iam using,as well iam using my indian sim and it works well till date,just a issue of battery its draining bit quicker than my previous mobile, so that's the reason i am giving 4 star"
+        }
+    },
+    "ORD243905": {
+        "Cart": [
+            "[('Universe Note', 2), ('Thunder line', 1), ('Toshika 750', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "terrible phone the battery would not hold a charge, even with little or no use. whomever is called hears their voice thundered back word for word which is very annoying. cannot use the phone because of the poor battery. good idea to stay away from this one unless you like wasting your money."
+        }
+    },
+    "ORD244567": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Candle Inferno', 1), ('Alcon 10', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "value for money the phone is pretty hood for general use. it is fast in terms of everyday ise. photo quality is ok, it is not bad. touch and feel is good. robust build. at the price point for everyday use the phone is amazing"
+        }
+    },
+    "ORD244594": {
+        "Cart": [
+            "[('Thunder line', 1), ('iStream', 1), ('Lucent 330S', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "i highly recommend!! i give this a five star rating, hands down! the phone is in excellent condition. i can go days without charging the phone because the battery is great!!! this is an amazing value and great quality!!!"
+        }
+    },
+    "ORD246022": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice phone nice phone"
+        }
+    },
+    "ORD249031": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "this phone sucks the wifi and the bluetooth disconnect all the time ... this phone sucks the wifi and the bluetooth disconnect all the time and the battery is really bad sometimes people text me and i dont get the text not good product"
+        }
+    },
+    "ORD249776": {
+        "Cart": [
+            "[('iStream', 1), ('Alcon 10', 1), ('Olivia x460', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it worked exactly as expected and the speaker has great sound. it is perfect for my classroom!"
+        }
+    },
+    "ORD250175": {
+        "Cart": [
+            "[('Universe Note', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "bater\u00eda da\u00f1ada hola. la bater\u00eda se da\u00f1\u00f3. donde puedo solicitar su reemplazo o reparaci\u00f3n?"
+        }
+    },
+    "ORD252775": {
+        "Cart": [
+            "[('iStream', 2), ('Olivia x460', 1), ('Toshika 750', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i love all of the things that it can do. i can play with it and learn from it."
+        }
+    },
+    "ORD253502": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Universe Note', 1), ('Lucent 330S', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "better sound."
+        }
+    },
+    "ORD255642": {
+        "Cart": [
+            "[('iStream', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "won't hold a charge would not hold a charge. charged all night, died within 20 min."
+        }
+    },
+    "ORD256016": {
+        "Cart": [
+            "[('Universe Note', 1), ('iStream', 1), ('Toshika 750', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing video quality easy to maneuver wonderful screen size easy set up"
+        }
+    },
+    "ORD256605": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "not the most powerful tablet but is flawless when utilizing the digico programs"
+        }
+    },
+    "ORD259052": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Lucent 330S', 2), ('Alcon 10', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good tablet and a great price. i use it for reading, istream and email."
+        }
+    },
+    "ORD261924": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i would advise anyone not to buy any electronic stuff ... i would advise anyone not to buy any electronic stuff from digico i bought a toshika xperia xa1 from digico and one week after the touch on the phone spoil now i can't get my money back because i don't live in america"
+        }
+    },
+    "ORD262488": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iAssist Line', 2), ('Olivia x460', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "pink and green display lines appeared after 3 months. ... pink and green display lines appeared after 3 months. too expensive to repair as it costs as much as 330 dollars. i just ended up buying a new phone"
+        }
+    },
+    "ORD262556": {
+        "Cart": [
+            "[('pearTV', 2), ('Alcon 10', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great! got this phone last week and really like it, although they unboxed it now i'm waiting for wp version 7.8"
+        }
+    },
+    "ORD265905": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone but still not super fast this is one of the best phones on the market. however, it is still much slower than my laptop in regards to browsing the web or opening programs. there's always a 2 second delay for everything."
+        }
+    },
+    "ORD265921": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone great phone i am still using that and learning more and more about it everyday i still have it and have gone through one case and put a new case on"
+        }
+    },
+    "ORD266257": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Thunder line', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "she loved it. it's was for me friend .. she loved it .. thnxx digico.."
+        }
+    },
+    "ORD267040": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Thunder line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars phone worked great no problems."
+        }
+    },
+    "ORD267220": {
+        "Cart": [
+            "[('Olivia x460', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "phone not unlocked the phone was not unlocked when it came... i was so disappointed because they said it was. i got it for my dad, and now he has to spend money to unlock it."
+        }
+    },
+    "ORD267241": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "the worst phone i have purchased ever do not recommend it the worst phone i have purchased ever do not recommend it . only had it 2 months and it dosen't work."
+        }
+    },
+    "ORD270933": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "love it love it does the job and the battery last a long time between charges. still learning all its ability keeps me busy."
+        }
+    },
+    "ORD271609": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Thunder line', 2), ('Universe Note', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars i love my universe note 3! the screen image is amazing."
+        }
+    },
+    "ORD273727": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone good windows phone. pictures come out great. only con i have come across so far, it continuously hooks onto data in the background. if you have limited data access, you might want to be careful. having wi-fi around is great. overall, good buy for the money."
+        }
+    },
+    "ORD275535": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 1), ('iStream', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "mi a2 update had the phone 3 weeks and parts of the screen started freezing up. i returned the phone just before the time was up. i don't know if mine was just defective or this was an inherent trait of the phone."
+        }
+    },
+    "ORD276878": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('iStream', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good deal...great phone! no complaints, it arrived in a very timely manner. the phone was in very good condition. overall very satisfied with this product and the company. will order from them in the future."
+        }
+    },
+    "ORD277358": {
+        "Cart": [
+            "[('pearTV', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "omg i'm in love with this phone omg i'm in love with this phone, the front cam with led flash is amazing!! i have no problems with it at all, everything has been great."
+        }
+    },
+    "ORD279402": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iAssist Line', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great product. exactly what they said it would be."
+        }
+    },
+    "ORD280009": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Thunder line', 1), ('Toshika 750', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone, just as advertised, brand new in the retail box the product was just as advertised, brand new in the retail box with all the original accessories. put in a new nano sim card and the phone was good to go."
+        }
+    },
+    "ORD282679": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "product is good. but i did not know when i purchased ... product is good. but i did not know when i purchased it, it did not have a sim and memory card."
+        }
+    },
+    "ORD283406": {
+        "Cart": [
+            "[('iStream', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone :) great phone. great price. very happy to have and own this phone. :)"
+        }
+    },
+    "ORD285119": {
+        "Cart": [
+            "[('Thunder line', 1), ('pearTV', 1), ('iAssist Line', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "upgraded from s5 wish it still had the ir emitter to use as a universal remote"
+        }
+    },
+    "ORD286712": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "spectacular but .... beautiful and very fast. my only complaint is that it is not b4 which is the most in latin america....i can only use it on 3g"
+        }
+    },
+    "ORD288212": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Alcon 10', 2), ('Universe Note', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "pixel ready daily driver. great phont ui is too good to be true. looking forward to pixel 2."
+        }
+    },
+    "ORD288323": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 1), ('Olivia x460', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it is a great phone it is a great phone but has to many fetures to go thur to get where you want to go,i may need training lol but it is a lil more than my alcon but i do like it."
+        }
+    },
+    "ORD288725": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Olivia x460', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone everything we wanted."
+        }
+    },
+    "ORD289920": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Candle Inferno', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i needed this for my two six year olds to be able to use during our drive to disney. you are unable to get most apps that are offered on itunes and android market so i returned."
+        }
+    },
+    "ORD290674": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "the layout of the tablet is good. internet is terrible."
+        }
+    },
+    "ORD291961": {
+        "Cart": [
+            "[('Thunder line', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "convoy 2? maybe? i got the package today in the mail only to find just a charger and a battery. no phone! so mad!"
+        }
+    },
+    "ORD293148": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great phone!"
+        }
+    },
+    "ORD294462": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Thunder line', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "still a strong, reliable phone we buy only used phones, and this one has further confirmed our decision. works just as well as the the overpriced new ones, no complaints. quick shipment."
+        }
+    },
+    "ORD296636": {
+        "Cart": [
+            "[('iStream', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "they forgot to mention it no longer meets network requirements. they forgot to mention it no longer meets network requirements and can't even be connected at all :( waste of time and money."
+        }
+    },
+    "ORD300049": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Olivia x460', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "reliable transaction the translation was quick. the phone looks like brand new and is in a great condition!"
+        }
+    },
+    "ORD300924": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iAssist Line', 1), ('Olivia x460', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "note 8 amazing product"
+        }
+    },
+    "ORD301674": {
+        "Cart": [
+            "[('Thunder line', 1), ('Lucent 330S', 2), ('Olivia x460', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone overall good"
+        }
+    },
+    "ORD303289": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Thunder line', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great phone and amazing saller jpmobiles your the best thank you so much"
+        }
+    },
+    "ORD307978": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Alcon 10', 1), ('Olivia x460', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good good product"
+        }
+    },
+    "ORD308765": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great! great cell phone!"
+        }
+    },
+    "ORD310531": {
+        "Cart": [
+            "[('iAssist Line', 2), ('pearTV', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "frustrated phone did not have an microphone that worked....it dials, receives calls but you can't hear the person"
+        }
+    },
+    "ORD312372": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star im in the process of returning it because it did not work properly."
+        }
+    },
+    "ORD314525": {
+        "Cart": [
+            "[('Universe Note', 2), ('Olivia x460', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "s10 plus... get one the phone is simply awesome. no flaws."
+        }
+    },
+    "ORD314979": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Candle Inferno', 1), ('iStream', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good value and it receives fm good value and it receives fm"
+        }
+    },
+    "ORD315179": {
+        "Cart": [
+            "[('pearTV', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great upgrade from my s7 time to upgrade and this is da bomb. very happy with it. no idea on face recognition. don't use that."
+        }
+    },
+    "ORD315504": {
+        "Cart": [
+            "[('ISTREAM', 1), ('peartv', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "lo recomiendo super bien brega"
+        }
+    },
+    "ORD316807": {
+        "Cart": [
+            "[('Olivia x460', 2), ('pearTV', 2), ('Candle Inferno', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice mobile very good"
+        }
+    },
+    "ORD317333": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nothing much it's really nice phone"
+        }
+    },
+    "ORD317652": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Candle Inferno', 1), ('Toshika 750', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "goes great with our thunder"
+        }
+    },
+    "ORD319178": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Universe Note', 1), ('Toshika 750', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i received the thunder as a gift. i needed another bluetooth or something to play music easily accessible, and found this smart speaker. can\u2019t wait to see what else it can do."
+        }
+    },
+    "ORD320916": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it is a great bundle of fun. music ,games, questions etc. i luv it turns off my smart lights. i purchase 4 more smart light for my lamps in the living room and my room!"
+        }
+    },
+    "ORD321270": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Candle Inferno', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "bad charging port i connected several different charging cords to this phone, purchased from buyspry, and none of them would reliably stay connected. these cords all work just fine with my old phone. sent back to seller and refund has been approved."
+        }
+    },
+    "ORD321832": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "we purchased this for my wife's mother. she likes to play games on it and do some reading."
+        }
+    },
+    "ORD322017": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Alcon 10', 1), ('Candle Inferno', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "really in 2018??? not working on verizon is ridiculous in 2018!!!!!!"
+        }
+    },
+    "ORD322420": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "olivia universe s4 - sprint an amazing smart phone! this is essentially a small computer in your hands. it has very many different functions and with the \"free\" android software that is available, there does not seem to be any limitations to what it can do! way to go olivia!"
+        }
+    },
+    "ORD324141": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Alcon 10', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars nice phone"
+        }
+    },
+    "ORD326400": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my daughter loves the phone. this is a nice phone. it works very well. it is well worth the money. i would tell any one who thinking about buying this phone buy it."
+        }
+    },
+    "ORD327155": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great service arrived as promised and was as expected.. fair price and prompt shipping.."
+        }
+    },
+    "ORD328132": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Toshika 750', 1), ('Universe Note', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "it's good looking but with a lot of problems it's dose not support all the apps specially instagram didn't work for me plus after a 2 weeks and got very slow and sometimes freeze and shut down"
+        }
+    },
+    "ORD328292": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Thunder line', 2), ('Universe Note', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "five stars great product at a great price."
+        }
+    },
+    "ORD328848": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iAssist Line', 1), ('Candle Inferno', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "if you're diehard ms fan nice phone, windows sucks however"
+        }
+    },
+    "ORD330289": {
+        "Cart": [
+            "[('Universe Note', 1), ('Olivia x460', 2), ('Thunder line', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "best choice for the money and quality this phone has the best camera ever. i live close to rocky mountain national park and use this phone instead of my expensive nikon camera to take pictures of the wildlife and beautiful scenery."
+        }
+    },
+    "ORD330543": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('pearTV', 2), ('Olivia x460', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars i am loving it"
+        }
+    },
+    "ORD330641": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Lucent 330S', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "will not seem to charge all the way and this is my 7th kindlle."
+        }
+    },
+    "ORD332011": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 1), ('Lucent 330S', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "when this item is charged it works great, but it takes too long to charge. asking my 3 year old to wait about 3 hours (no exaggerating) is a bit much. we have tried to buy a new charger and it still takes just as long. my niece has this same tablet and it take about 45 minutes to charge once it is fully dead"
+        }
+    },
+    "ORD333358": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Alcon 10', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "more interaction is needed between other devices. too hard to remember opening statements to get thunder to respond."
+        }
+    },
+    "ORD333990": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "... on the screen but other then that it works like a charm it has a deep scuff on the screen but other then that it works like a charm"
+        }
+    },
+    "ORD334485": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars it's pretty"
+        }
+    },
+    "ORD336893": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Universe Note', 1), ('Candle Inferno', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "almost perfect. almost perfect experience. the s pen broke in half when i went to pull it out of note 5 phone within 48 hours of delivery, so i was forced to buy a new one from olivia. other than that it was great!"
+        }
+    },
+    "ORD337311": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great, very worthy of purchase. this was a great buy. it definitely is \"like new\". i actually get the impression that the phone was never even used but simply an item someone returned because they bought the wrong model. the phone is working excellently and is aesthetically pleasing."
+        }
+    },
+    "ORD337877": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars got it and looks just like a new phone. nothing wrong with it."
+        }
+    },
+    "ORD337984": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Alcon 10', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "everythinh excellent product\u00a1 i received my phone like new\u00a1 mlg group is 100% recomended for me\u00a1"
+        }
+    },
+    "ORD339649": {
+        "Cart": [
+            "[('Thunder line', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone great"
+        }
+    },
+    "ORD339672": {
+        "Cart": [
+            "[('pearTV', 1), ('Toshika 750', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "the phone was is very good shape and i would have love it, if it had worked the alcon would not work with my local carrier."
+        }
+    },
+    "ORD340641": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Thunder line', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "not good does not work well and texting takes 5 minutes to reasived plus many other issues"
+        }
+    },
+    "ORD341013": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 2), ('iStream', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i bought this phone only two months ago, and ... i bought this phone only two months ago, and in the last two months. it has shut itself off repeatedly. now the screen decided to give out and went completely blank."
+        }
+    },
+    "ORD341686": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Alcon 10', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars excellent piece! struggling to sleep without it in my hand!"
+        }
+    },
+    "ORD343782": {
+        "Cart": [
+            "[('Olivia x460', 2), ('iStream', 1), ('iAssist Line', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect its amazing this phone"
+        }
+    },
+    "ORD344472": {
+        "Cart": [
+            "[('iStream', 2), ('Olivia x460', 1), ('Alcon 10', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "its great for the money. looks and works like new. i'd buy another olivia in a minute. i would not buy a new one for full price. i hope this one lasts a long time but i don't know what to expect."
+        }
+    },
+    "ORD345202": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome phone! the phone works perfectly! i had my worries because it is used, but i do not regret this purchase at all. the phone has minor dents and scratches on the top and bottom (which is why i gave it 4 stars), but they are not noticeable with a case. feels brand new!"
+        }
+    },
+    "ORD345282": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Universe Note', 2), ('Lucent 330S', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars bought it for my daughter - she loves it."
+        }
+    },
+    "ORD346356": {
+        "Cart": [
+            "[('pearTV', 1), ('Candle Inferno', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very good i like how is work"
+        }
+    },
+    "ORD347062": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Universe Note', 2), ('pearTV', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star will not work with carrier. want to re-order but can't find this model."
+        }
+    },
+    "ORD347364": {
+        "Cart": [
+            "[('universe note', 2), ('iassist line', 2), ('lucent 330s', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone easy to setup on t-mobile, works well, great battery life. very small footprint, works really well. i love this phone."
+        }
+    },
+    "ORD347594": {
+        "Cart": [
+            "[('Thunder line', 2), ('Lucent 330S', 2), ('pearTV', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works like a flagship phone stunning phone at twice the price. fast, high screen, long battery life, no complaints here."
+        }
+    },
+    "ORD349135": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('pearTV', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "well made quality phone"
+        }
+    },
+    "ORD349525": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it\u2019s good, but it\u2019s not compatible with my carrier :( this phone is great and although it says that it is gsm unlocked, my carrier said the phone is somehow not compatible with it. (my company is sprint). i don\u2019t understand, gsm unlocked should mean that that it\u2019s able to connect to my provider no?"
+        }
+    },
+    "ORD352051": {
+        "Cart": [
+            "[('iStream', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "buyer beware it's not the real s8"
+        }
+    },
+    "ORD352593": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Thunder line', 1), ('Lucent 330S', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone! the picture quality is great and it has a long battery life."
+        }
+    },
+    "ORD353238": {
+        "Cart": [
+            "[('pearTV', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "phone failed after 2 months first of all the phone was not the android 8 operating system.....it was the android 7.1.1 nougat. now the phone went into some system update and refuses to reboot."
+        }
+    },
+    "ORD354341": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Toshika 750', 1), ('Universe Note', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "huawei n1 espectacular todo el celular."
+        }
+    },
+    "ORD354413": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 1), ('Alcon 10', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "unlock failed i can't unlock for mobile device not eligible forma unlock .i need help"
+        }
+    },
+    "ORD355763": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "no double tab for turn off screen note 9 don't have program for turn off screen with double tab on screen. most new smart phone have this program."
+        }
+    },
+    "ORD355844": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "s10e haven't had this phone but a short time but i have fallen in love lol"
+        }
+    },
+    "ORD355878": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "camera is awesome outstanding camera!! doesn't seem to freeze or lock up like every other phone i've had. fast, efficient, and it looks way too"
+        }
+    },
+    "ORD357914": {
+        "Cart": [
+            "[('pearTV', 1), ('Thunder line', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfectly as described perfectly as described"
+        }
+    },
+    "ORD359121": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iAssist Line', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very good very good mobile"
+        }
+    },
+    "ORD359903": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Universe Note', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "to many adds in ui it has adds, sends info to manufacture,"
+        }
+    },
+    "ORD360393": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 1), ('iAssist Line', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone. great performance, highly recommend."
+        }
+    },
+    "ORD360739": {
+        "Cart": [
+            "[('Olivia x460', 1), ('iAssist Line', 2), ('Lucent 330S', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "upgraded from my lilttle thunder line. happy with sound"
+        }
+    },
+    "ORD361636": {
+        "Cart": [
+            "[('Universe Note', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "no carga istream no carga istream y nadie sabe porqu\u00e9 no lo recomiendo por esto y me gasto reconfigurarlo"
+        }
+    },
+    "ORD361759": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 2), ('iStream', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i never got my cell phone. nunca me lleg\u00f3 el celular"
+        }
+    },
+    "ORD361982": {
+        "Cart": [
+            "[('pearTV', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this is my first smart device and i will surely be buying other devices that will be compatible with this one."
+        }
+    },
+    "ORD363515": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "like it. still working discovery. really too soon to fully evaluate. but looking forward to learning and using it."
+        }
+    },
+    "ORD363569": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Alcon 10', 1), ('iAssist Line', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works great... bought it for my shop so that it is like an intercom to the house."
+        }
+    },
+    "ORD365002": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Universe Note', 1), ('pearTV', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good quality product. clear display and easy to use."
+        }
+    },
+    "ORD365314": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Universe Note', 2), ('Olivia x460', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "pro's gps accurate--easy to set-upcons small screen--does not count stairs adequately--would not push notification to my olivia 7 edge"
+        }
+    },
+    "ORD366469": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great entry level tablet/reader holds a lot and it's expandable of 128 gb"
+        }
+    },
+    "ORD369692": {
+        "Cart": [
+            "[('IASSIST LINE', 2), ('CANDLE INFERNO', 2), ('THUNDER LINE', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "i bought this inferno for my 7 year old and she loves it."
+        }
+    },
+    "ORD370065": {
+        "Cart": [
+            "[('THUNDER LINE', 1), ('OLIVIA X460', 2), ('LUCENT 330S', 1), ('IASSIST LINE', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star i got light blub instead of a phone am very upset"
+        }
+    },
+    "ORD371242": {
+        "Cart": [
+            "[('Olivia x460', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my first smart phone i love it, just trying to learn how to use all the features! its a learning curve but so far it's been great."
+        }
+    },
+    "ORD371930": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice phone this is my second universe s 4 ,and the price i paid was a cent .i was using a olivia s 4 which i lost and i tried lucentx after that for few days and realized its not gonna work out ..returned to the store and bought the s 4 from here ..its really a great phone"
+        }
+    },
+    "ORD372277": {
+        "Cart": [
+            "[('iStream', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very good basic cell phone at a very low price this olivia phone has all the basic features. voice, text, address file, etc. and it's very small compared to some of the smart phone monsters that will barely fit in a man's pocket. just a darn good basic cell phone with a long battery life."
+        }
+    },
+    "ORD374107": {
+        "Cart": [
+            "[('iStream', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "can i another phone and not alfa the phone don't not work properly ,if i'm on the phone with someone, and someone else call they on the line too,it really inappropriate"
+        }
+    },
+    "ORD374251": {
+        "Cart": [
+            "[('iStream', 1), ('pearTV', 1), ('Alcon 10', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "a nearly non-functional piece of junk. memory management is terrible on this phone. it constantly seizes up due to notifications, etc. locks up for randon amounts of time when you go to start an application. battery life is awful just letting the phone idle. a real pos with the exception that the hardware/chassis seems well constructed."
+        }
+    },
+    "ORD374508": {
+        "Cart": [
+            "[('Universe Note', 2), ('iStream', 1), ('Alcon 10', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i have problem with the phone but good customer service i have problem with the phone but good customer service"
+        }
+    },
+    "ORD376088": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Thunder line', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good buy for the price bought it reconditioned; did not come with instructions and had to purchase it separately. it has been very dependable with a few quirks but otherwise serves the purpose~~ the reduced price made it much better~~~"
+        }
+    },
+    "ORD377837": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Candle Inferno', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great value son loves it best phone of his life"
+        }
+    },
+    "ORD379700": {
+        "Cart": [
+            "[('iStream', 2), ('Lucent 330S', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "love love love this phone!"
+        }
+    },
+    "ORD379975": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Alcon 10', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone. phone is amazing. great photos and videos. super fast. this phone is awesome."
+        }
+    },
+    "ORD381266": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "horrible phone disappointed in the phone, when it arrived it didn\u2019t turn on. i automatically thought it was a battery issue so i paid to have a new battery installed. after that it still didn\u2019t turn on. pretty much trash never again!! one star for fast shipping."
+        }
+    },
+    "ORD381638": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iStream', 1), ('Candle Inferno', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "my son loved it!! i bought as a christmas gift for my son whom always wanted this product... so far so good!! he is very pleased...."
+        }
+    },
+    "ORD381949": {
+        "Cart": [
+            "[('iAssist Line', 2), ('iStream', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it\u2019s pretty good the button was stiff and there was already a crack so when i dropped it, it cracked more"
+        }
+    },
+    "ORD382455": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Thunder line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "alcon 6 it's all good. i don't have time for rating."
+        }
+    },
+    "ORD383461": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('iStream', 1), ('Olivia x460', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "works great! works great so far!"
+        }
+    },
+    "ORD383725": {
+        "Cart": [
+            "[('Olivia x460', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "fantastic phone. highly recommended. this \ud83d\udcf1 phone has established itself as my prizeed possession. i have 3 phones - the j7, the lg x power, and the zte warp 7. by far the best of the 3. smooth as silk, fast as lightening, and and flawless in operation. who could want more?"
+        }
+    },
+    "ORD386513": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Olivia x460', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "no good the phone has many faults. didn't have it for a month yet & the imperfections arose. the phone would go off randomly, messages are not being delivered, picture messages don't send accurately & so much more."
+        }
+    },
+    "ORD386882": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Alcon 10', 1), ('iStream', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars very nice smartphone!!! the photos are wonderful! fotos muito boas e aparelho fenomenal!"
+        }
+    },
+    "ORD387574": {
+        "Cart": [
+            "[('Alcon 10', 1), ('Thunder line', 2), ('iStream', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "four stars still very much in love with my xp 6. however, the charger has already developed a fault."
+        }
+    },
+    "ORD387808": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iAssist Line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good product use phone for personal use."
+        }
+    },
+    "ORD387878": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good battery life good battery life"
+        }
+    },
+    "ORD389541": {
+        "Cart": [
+            "[('Thunder line', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone, received as described great phone! i received it with 1-day delivery after my old phone broke. there are no dings or scratches on it. received as described (unlocked phone, usb-c cable and wall plug, sd tray card opener pin). everything is working so far! :d"
+        }
+    },
+    "ORD393183": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "cheap this phone is very heavy even with a pop socket its hard to hold .. and the battery will last you one day .. if you dont talk or text too much. its very slow and the back pops off about 25 times a day . all the negative reviews are true !!"
+        }
+    },
+    "ORD394848": {
+        "Cart": [
+            "[('pearTV', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good. packaged well. came promptly. works as advertised."
+        }
+    },
+    "ORD395518": {
+        "Cart": [
+            "[('pearTV', 1), ('Olivia x460', 1), ('Thunder line', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome perfect phone to keep connected with kids. it's small and lightweight so very easy to carry in small pockets. has great battery life - no need to charge it every day. my 8 year old loves it."
+        }
+    },
+    "ORD397354": {
+        "Cart": [
+            "[('Thunder line', 1), ('iStream', 2), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "feel ripped off and deceived returning this phone, got a verizon version, i have metro pcs why would i verizon bloat on my phone, not to mention it is geared to cdma. it does will not work as well as a unlocked gsm phone already tried that with a verizon olivia note. also should have been told what i would have been receiving, feel very decieved."
+        }
+    },
+    "ORD401278": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Thunder line', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent product 100% functional"
+        }
+    },
+    "ORD401780": {
+        "Cart": [
+            "[('Olivia x460', 2), ('iAssist Line', 2), ('iStream', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "really great quality! getting another for myself!"
+        }
+    },
+    "ORD403400": {
+        "Cart": [
+            "[('Alcon 10', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it's brand new love the cell phone!"
+        }
+    },
+    "ORD404813": {
+        "Cart": [
+            "[('iStream', 1), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "funciona para venezuela mi preocupaci\u00f3n era si funcionar\u00eda en venezuela y s\u00ed funciona. tiene mejor relaci\u00f3n calidad-precio que otros equipos. lo compr\u00e9 para regalar a mi mam\u00e1 que lo necesitaba y le ha gustado mucho."
+        }
+    },
+    "ORD405547": {
+        "Cart": [
+            "[('Thunder line', 1), ('Toshika 750', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it\u2019s a good phone and you can\u2019t beat the price it was for a gift , and it was a big hit"
+        }
+    },
+    "ORD406814": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 1), ('Alcon 10', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great phone for the money. the price was right. it works well and the battery easily lasts 2 days."
+        }
+    },
+    "ORD407964": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('iStream', 2), ('Universe Note', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "i reached out to digico, because the device wanted to sync my phone number but it would not allow because it said my number was already in use.  customer service couldn't help they basically told me to contact sprint to assist.  so thunder does the bare minimum without access to my phone for set up, so its kind of pointless to have and pay for."
+        }
+    },
+    "ORD407975": {
+        "Cart": [
+            "[('Toshika 750', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good phone good phone"
+        }
+    },
+    "ORD408988": {
+        "Cart": [
+            "[('iStream', 1), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very pleased!! that picture was taken from my bathroom window with a screen in front. still clear detail colors are vibrant! they said tuesday the 12th of nov my phone got here on the 8th of nov! totally excited!!! it working great at the moment camera is awesome"
+        }
+    },
+    "ORD409115": {
+        "Cart": [
+            "[('Universe Note', 2), ('Thunder line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "overall good phone fingerprint not so good"
+        }
+    },
+    "ORD409233": {
+        "Cart": [
+            "[('Thunder line', 1), ('Universe Note', 1), ('Candle Inferno', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "wonderful this phone works really well better than expected .. will definitely buy again thanks again"
+        }
+    },
+    "ORD412934": {
+        "Cart": [
+            "[('Universe Note', 2), ('Olivia x460', 2), ('Lucent 330S', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great product working great, unlocked,"
+        }
+    },
+    "ORD413882": {
+        "Cart": [
+            "[('Thunder line', 1), ('Lucent 330S', 1), ('Olivia x460', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome phone! i like the beautiful, bright display, very good to watch youtube or istream. the phone is pretty fast and the storage is huge. i purchased the duos version to have two sim cards. i am still learning how to use it, but i can assure you that this phone is fantastic so far."
+        }
+    },
+    "ORD414145": {
+        "Cart": [
+            "[('Toshika 750', 1), ('iAssist Line', 1), ('Thunder line', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "xiaomi proooo testing a very good phone"
+        }
+    },
+    "ORD414419": {
+        "Cart": [
+            "[('iStream', 2), ('Olivia x460', 2), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing!"
+        }
+    },
+    "ORD417453": {
+        "Cart": [
+            "[('Thunder line', 1), ('Alcon 10', 1), ('Candle Inferno', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very pleased with my purchase of thunder smart speaker - love the fact that i can play music of different genre's whenever i want.had some trouble at first with the wi fi, but it is now working."
+        }
+    },
+    "ORD420200": {
+        "Cart": [
+            "[('pearTV', 1), ('iStream', 2), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "doesn't work arrived with completely dead battery. doesn't hold a charge. charger doesn't work."
+        }
+    },
+    "ORD420507": {
+        "Cart": [
+            "[('Universe Note', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great device for the price. good looking screen, quick and efficient. digico app store isn't that bad either"
+        }
+    },
+    "ORD420807": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": NaN,
+            "latest_customer_review": "bought for wife who is not into the techie word. she likes it - suggest buying a protective screen and padded case for it."
+        }
+    },
+    "ORD420866": {
+        "Cart": [
+            "[('Olivia x460', 1), ('pearTV', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i really love this product because it lets me read books and surf the net"
+        }
+    },
+    "ORD421797": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "this was a gift for a family member they really enjoy all the options of getting books"
+        }
+    },
+    "ORD424374": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "phone doesn't work got this phone. not clean reported lost or stolen. have no phone\ud83d\ude16"
+        }
+    },
+    "ORD426744": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "worked pretty good. a little laggy though and sometimes it ... worked pretty good. a little laggy though and sometimes it seemed as though i would text too fast for it to keep up. i still enjoyed it though."
+        }
+    },
+    "ORD428011": {
+        "Cart": [
+            "[('pearTV', 2), ('Candle Inferno', 1), ('Lucent 330S', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "loved phone! my husband loved his new phone! he liked the operation and simplicity of this phone better than his old one. i would reccommend to anyone who doesn't want or need a lot of bells and whistles."
+        }
+    },
+    "ORD428471": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Olivia x460', 2), ('iStream', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good this was product a great and it was offered at a very reasonable price, for a phone of that stature."
+        }
+    },
+    "ORD428910": {
+        "Cart": [
+            "[('pearTV', 2), ('Lucent 330S', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "smart simple good price ok a phone that is a simple phone (no camera ) but i bought one to replace my att xp ,it is light / slim ..only thing back cover paper thin becarefull , but other wise its a great deal for the buck ,, pick a plan that suits your needs and go phone without paying a lot !!"
+        }
+    },
+    "ORD430536": {
+        "Cart": [
+            "[('LUCENT 330S', 1), ('THUNDER LINE', 2), ('ISTREAM', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars love it for an older phone"
+        }
+    },
+    "ORD431050": {
+        "Cart": [
+            "[('pearTV', 1), ('Universe Note', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "it\u2019s not even good phone,i used speaker only ,it\u2019s not good phone .i don\u2019t like it it\u2019s not probably sund works,i can\u2019t hear another in coming call .i don\u2019t like it ."
+        }
+    },
+    "ORD431829": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Alcon 10', 2), ('Universe Note', 2), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "bad quality and locked was locked to verizon, we have at&t. also the screen had some pretty bad burn in. immediately filed for a return 10 minutes after opening it."
+        }
+    },
+    "ORD434570": {
+        "Cart": [
+            "[('Universe Note', 1), ('iAssist Line', 2), ('Lucent 330S', 2), ('Olivia x460', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars this phone is perfect for my daughter's bday."
+        }
+    },
+    "ORD435271": {
+        "Cart": [
+            "[('ISTREAM', 1), ('ALCON 10', 1), ('PEARTV', 1), ('TOSHIKA 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very happy with purchase phone as advertised (excellent condition) and arrived a day early. very happy with purchase."
+        }
+    },
+    "ORD436067": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars it was a gift, my nephew is loving it."
+        }
+    },
+    "ORD436478": {
+        "Cart": [
+            "[('pearTV', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it a great product for the price it for personal use"
+        }
+    },
+    "ORD439316": {
+        "Cart": [
+            "[('Thunder line', 2), ('iAssist Line', 1), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars excellent product"
+        }
+    },
+    "ORD439821": {
+        "Cart": [
+            "[('Thunder line', 1), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "not functional i believe my phone is defective. everyone that i talk to hears an thunder of themselves after approximately 5 minutes. shortly thereafter all calls disconnect. i would like a replacement."
+        }
+    },
+    "ORD442067": {
+        "Cart": [
+            "[('Universe Note', 2), ('pearTV', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "the sim card is inserted from the top of the phone using a little device that allows the card holder to spring out. the phone took awhile to figure out. however it works really well and has a ton of internal data storage so there is no need for an sd card."
+        }
+    },
+    "ORD442197": {
+        "Cart": [
+            "[('Alcon 10', 1), ('iStream', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars good phone. i have had no issues with it."
+        }
+    },
+    "ORD442452": {
+        "Cart": [
+            "[('Thunder line', 2), ('Candle Inferno', 2), ('Lucent 330S', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "solid buy phone has been solid especially for the price."
+        }
+    },
+    "ORD449130": {
+        "Cart": [
+            "[('iAssist Line', 1), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "call disconnects! call drop outs, bought htc"
+        }
+    },
+    "ORD449772": {
+        "Cart": [
+            "[('Universe Note', 2), ('Candle Inferno', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "perfect without issues, all perfect"
+        }
+    },
+    "ORD449901": {
+        "Cart": [
+            "[('pearTV', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "bad bad"
+        }
+    },
+    "ORD450897": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('iStream', 2), ('Toshika 750', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "do not purchase this phone!!! i don't care what the reviews say, do not purchase this phone!!! they are defective and xp knows yet still have not pulled them from the market. the charging port gives out like after a few months (or even sooner) of using it, rendering the phone useless."
+        }
+    },
+    "ORD451441": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good good phone"
+        }
+    },
+    "ORD452012": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 2), ('Thunder line', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "does not work for all networks just received today,however i have to return.. does not work with t-mobile straight talk .. :("
+        }
+    },
+    "ORD452642": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Lucent 330S', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "no complaints here. excellent phone. excellent price."
+        }
+    },
+    "ORD453282": {
+        "Cart": [
+            "[('Universe Note', 2), ('Olivia x460', 1), ('Thunder line', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "very good aceptable"
+        }
+    },
+    "ORD453377": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iStream', 1), ('Olivia x460', 1), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "not fake i was confused i thought this was fake. turns out the 3g version is matte colored and the 2g is glossy"
+        }
+    },
+    "ORD453668": {
+        "Cart": [
+            "[('Thunder line', 1), ('Lucent 330S', 2), ('iAssist Line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "favorite phone i've ever had love this phone in every way"
+        }
+    },
+    "ORD454128": {
+        "Cart": [
+            "[('Universe Note', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great! works just fine. idk what everyone else is complaining about!"
+        }
+    },
+    "ORD455246": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iAssist Line', 1), ('pearTV', 2), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "5 stars super fast delivery , best phone out there by far very happy"
+        }
+    },
+    "ORD456259": {
+        "Cart": [
+            "[('iassist line', 1), ('alcon 10', 2), ('candle inferno', 2), ('istream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice phone nice product, looks like new. battery life is not 100%, i would say around 60... but overall, i satisfied with the purchase"
+        }
+    },
+    "ORD457758": {
+        "Cart": [
+            "[('iAssist Line', 1), ('Lucent 330S', 1), ('iStream', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great product thanks !"
+        }
+    },
+    "ORD457767": {
+        "Cart": [
+            "[('Toshika 750', 2), ('iStream', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "awesome overall, battery life is insane. great phone"
+        }
+    },
+    "ORD460883": {
+        "Cart": [
+            "[('pearTV', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i couldn't be more pleased. i've only had this a few days so my opinion could change but so far i couldn't be more pleased. battery life is great! camera is great! the phone was in good condition when i received it. no complaints, so far."
+        }
+    },
+    "ORD462194": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "quality excellent product"
+        }
+    },
+    "ORD463025": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "returned returned."
+        }
+    },
+    "ORD463964": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "terrible decision i had this phone for 24 hrs. by the time i took it back, i absolutely hated it!!! without a how-to guide, this type of phone is absolutely useless!!! i'll stick with my jitterbug!!! (i'd give it 0 stars, or negative stars even,but you can't.)"
+        }
+    },
+    "ORD464981": {
+        "Cart": [
+            "[('Universe Note', 2), ('Olivia x460', 1), ('Thunder line', 2), ('pearTV', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "beware - battery may stop charging for no reason. i have bought two of these. both phones have died because of battery issues. the first one died after about 4 months, and the 2nd one died in only 6. i never made any modifications to either phone. after a time they just refuse to charge at all. i suppose you get what you pay for... buyer beware."
+        }
+    },
+    "ORD465360": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "fragile phone no durability this phone has great camera and nice storage i live the pen however it it very fragile it fell one time and distros the back and front of the phone"
+        }
+    },
+    "ORD466433": {
+        "Cart": [
+            "[('Toshika 750', 1), ('Alcon 10', 1), ('Thunder line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good trash lcd but cost-effective product"
+        }
+    },
+    "ORD468449": {
+        "Cart": [
+            "[('Thunder line', 2), ('iStream', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "excellent conditions it is working very well."
+        }
+    },
+    "ORD468473": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 1), ('Lucent 330S', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "what's not to like? this phone does everything i need for $300. i just can't see spending 800 to a $1,000 for a phone. if you need all the bells and whistles then i guess spend the money. but if you want a good smartphone this really serves the purpose."
+        }
+    },
+    "ORD469769": {
+        "Cart": [
+            "[('Universe Note', 1), ('Thunder line', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "one star this phone has gotten from bad to worse. bourght in february 2016"
+        }
+    },
+    "ORD469852": {
+        "Cart": [
+            "[('Olivia x460', 2), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "amazing cellphone great device! incredibly good for this price. great camera, very good battery life and excellent overall performance. there is a few very annoying ads in some apps, but easy to remove."
+        }
+    },
+    "ORD473288": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "highly recommended excellent deal."
+        }
+    },
+    "ORD473815": {
+        "Cart": [
+            "[('Olivia x460', 1), ('iAssist Line', 2), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "quality budget phone everything is as described and works perfectly."
+        }
+    },
+    "ORD474833": {
+        "Cart": [
+            "[('iAssist Line', 1), ('iStream', 2), ('Alcon 10', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "good for my needs, excellent phone what i most like is the fingerprint reader, it simplifies unlocking the phone. camera is good for common uses, battery last about 3 days which doubles the time of my previous lucent e phone. so far so good, all still working perfect. it works good in mexico."
+        }
+    },
+    "ORD475510": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('iAssist Line', 1), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "okay it was great"
+        }
+    },
+    "ORD476072": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Thunder line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "worth it came sooner than expected and amazing quality packaging safe and secure satisfaction guaranteed. good quality phone for the price"
+        }
+    },
+    "ORD480424": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 1), ('Universe Note', 1), ('Lucent 330S', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it has replaced my clock and google mini on my nightstand.  outstanding little device.  i hope an update will give a simple face and font color options for the clock."
+        }
+    },
+    "ORD481148": {
+        "Cart": [
+            "[('iStream', 1), ('pearTV', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "listens well, does way more than expected, love her!"
+        }
+    },
+    "ORD481651": {
+        "Cart": [
+            "[('iStream', 2), ('Thunder line', 2), ('Universe Note', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "algo bueno no me duro nada"
+        }
+    },
+    "ORD481832": {
+        "Cart": [
+            "[('Olivia x460', 1), ('pearTV', 2), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "purchased as a replacement for an older candle and the inferno hd did not disappoint. the intended recipient was thrilled that a camera came with it. well worth the money."
+        }
+    },
+    "ORD489366": {
+        "Cart": [
+            "[('pearTV', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "recently upgraded from the 7inch candle and i must say huge improvements. all i can say is that if they can speed up the processor by next year with more ram they might compete with the ipad!"
+        }
+    },
+    "ORD490527": {
+        "Cart": [
+            "[('iAssist Line', 2), ('Thunder line', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "purchased for my granddaughter and it was a great investment."
+        }
+    },
+    "ORD491234": {
+        "Cart": [
+            "[('Alcon 10', 2), ('pearTV', 1), ('Lucent 330S', 2), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars great"
+        }
+    },
+    "ORD492107": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Toshika 750', 2), ('Universe Note', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "responsible 100% responsible 100%"
+        }
+    },
+    "ORD493666": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 2), ('Universe Note', 1), ('Toshika 750', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "no instructions all i have to say is thank god i am replacing a 900 because this came with no instruction manual! i just received today so i can't write more of a review at this time"
+        }
+    },
+    "ORD494241": {
+        "Cart": [
+            "[('Lucent 330S', 1), ('Olivia x460', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "great product it's a nice experience with this windows phone and love to continue with that... stylish, productivity, easy to use and it's a great product..."
+        }
+    },
+    "ORD494479": {
+        "Cart": [
+            "[('Lucent 330S', 2), ('Candle Inferno', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars the best deal ever love it so much!!#"
+        }
+    },
+    "ORD495312": {
+        "Cart": [
+            "[('Thunder line', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": "charger is only 5 inches long the charger sent to me is not the factory charger, the usb and the port that plugs into the wall are completely different. it's 5 inches long and of course it's one of those new ones so i don't have another charger that i can use. i literally cannot use this phone while it's plugged in."
+        }
+    },
+    "ORD496181": {
+        "Cart": [
+            "[('Olivia x460', 2), ('Universe Note', 1), ('iStream', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "glad i have it. the phone's sound quality is excellent. sound is very distinct, much better than most small phones that i have used. it is also a handsome, easy-to-hold phone that has great sound for a small phone. an excellent phone."
+        }
+    },
+    "ORD496722": {
+        "Cart": [
+            "[('Candle Inferno', 2), ('pearTV', 1), ('iStream', 2), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "nice phone durable phone. decent price. works as it should."
+        }
+    },
+    "ORD497037": {
+        "Cart": [
+            "[('Candle Inferno', 1), ('Alcon 10', 1), ('Lucent 330S', 1), ('Universe Note', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "would recommend. fast shipping. would recommend."
+        }
+    },
+    "ORD497096": {
+        "Cart": [
+            "[('Alcon 10', 2), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "it just works! it just works. it is fast and flawless. the screen is just the right size, not to big, not too small. call quality is great. no complaints about this phone."
+        }
+    },
+    "ORD497160": {
+        "Cart": [
+            "[('pearTV', 2), ('Candle Inferno', 2), ('Toshika 750', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "i originally but the s4 in 2013 and love it. so happy to have found a replacement ... i just received this yesterday, i originally but the s4 in 2013 and love it. so happy to have found a replacement for mine that originally died. it's a great smartphone, easy to use and does everything i need."
+        }
+    },
+    "ORD498207": {
+        "Cart": [
+            "[('pearTV', 1), ('Alcon 10', 1), ('Lucent 330S', 1)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": false,
+            "latest_customer_review": ". my phone has dust on the camera lens. i can nota traje a picture"
+        }
+    },
+    "ORD498590": {
+        "Cart": [
+            "[('iStream', 1), ('Candle Inferno', 1), ('iAssist Line', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars perfect excellent"
+        }
+    },
+    "ORD499540": {
+        "Cart": [
+            "[('iStream', 1), ('Toshika 750', 1), ('Alcon 10', 2)]"
+        ],
+        "missing_data": {
+            "is_happy_customer": true,
+            "latest_customer_review": "five stars very good!"
+        }
+    }
+}
